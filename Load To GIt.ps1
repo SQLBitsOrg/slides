@@ -1,3 +1,10 @@
+$ModuleName = 'SQLBitsPS'
+If(-not(Get-Module -ListAvailable -Name $ModuleName)) {
+    Import-Module -Name $ModuleName -AllowPreRelease
+}else{
+    Update-Module -Name $ModuleName -AllowPreRelease
+}
+
 # get all sessions from the API
 
 $AllSessions = Get-SQLBitsSession -all
