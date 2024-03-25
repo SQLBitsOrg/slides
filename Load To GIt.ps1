@@ -37,3 +37,7 @@ foreach ($Session in $AllSessions) {
     }
 
 }
+
+Rename-Item -LiteralPath '2024/Saturday/Air-Traffic-Control-(Data-Governance)-with-Databricks-Unity-Catalog,-tips,-tricks-and-best-practices_Liping-Huang,-Vuong-Nguyen/Air Traffic Control (Data Governance) with Databricks Unity Catalog, tips, tricks and best practices.pptx' -newName 'slides.pptx'
+Rename-Item -LiteralPath '2024/Thursday/Managing-the-Challenge-of-Monitoring-Growing,-Multi-platform-Database-Estates_Grant-Fritchey,-Laura-Copeland/Redgate Sponsor Session - Managing the Challenge of Monitoring Growing, Multi-platform Database Estates.pptx' -newName 'slides.pptx'
+Rename-Item -LiteralPath '2024/Thursday/More-than-''just''-a-Data-Catalogue---Boarding-the-Tour-through-the-Microsoft-Purview-Universe_Wolfgang-Strasser/SQLBITS2024_More than just a Data Catalog - Microsoft Purview Universe_WolfgangStrasser.pdf' -newName 'slides.pptx'
