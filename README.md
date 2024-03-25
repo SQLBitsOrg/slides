@@ -17,7 +17,7 @@ To access the slides for a specific session. Go to the directory for the year an
 
 ## Contributing
 
-If you attended the SQLBits event and would like to contribute your own slides. Please add them to your session in Sessionize using the Upload Files button. Once you have uploaded your slides, you can run the [load to git PowerShell](Load To GIt.ps1) or just let one of the organisers know so that they can update the repo.
+If you attended the SQLBits event and would like to contribute your own slides. Please add them to your session in Sessionize using the Upload Files button. Once you have uploaded your slides, you can run the [load to git PowerShell script](Load%20To%20GIt.ps1) or just let one of the organisers know so that they can update the repo.
 
 
 ## Contact
